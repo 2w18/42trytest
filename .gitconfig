@@ -1,0 +1,9 @@
+[user]
+	email = empty2w@gmail.com
+	name = William Wagner
+[alias]
+	s = status
+	cm = commit -m
+	co = checkout
+[credential]
+	username = 2w18

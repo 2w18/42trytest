@@ -1,0 +1,118 @@
+{
+  "app_name": "725a22e15ed74735bb0d6a19f3cc82d0",
+  "app_title": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "725a22e15ed74735bb0d6a19f3cc82d0",
+      "asset_id": "725a22e15ed74735bb0d6a19f3cc82d0",
+      "build_version": "1.32a",
+      "catalog_item_id": "c4aa05d55afd4254b2542ee713cd4971",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "14ee004dadc142faaaece5a6270fb628"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-28T15:35:25.735Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/The Witcher 3/gamesaves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheWitcher3"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "8000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "14ee004dadc142faaaece5a6270fb628"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+    "developer": "CD PROJEKT RED",
+    "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+    "endOfSupport": false,
+    "entitlementName": "c4aa05d55afd4254b2542ee713cd4971",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c4aa05d55afd4254b2542ee713cd4971",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "9c72e2ae9ef1e869a29b767b08f2753e",
+        "size": 1019282,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-05T18:45:14.165Z",
+        "url": "https://cdn1.epicgames.com/14ee004dadc142faaaece5a6270fb628/item/EGS_TheWitcher3WildHuntGameoftheYear_CDPROJEKTRED_S1-2560x1440-9c72e2ae9ef1e869a29b767b08f2753e.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d887e1b749d11e8876996227e4de5c89",
+        "size": 1021630,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-05T18:45:27.495Z",
+        "url": "https://cdn1.epicgames.com/14ee004dadc142faaaece5a6270fb628/item/EGS_TheWitcher3WildHuntGameoftheYear_CDPROJEKTRED_S2-1200x1600-d887e1b749d11e8876996227e4de5c89.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-04-27T17:28:31.448Z",
+    "namespace": "14ee004dadc142faaaece5a6270fb628",
+    "releaseInfo": [
+      {
+        "appId": "725a22e15ed74735bb0d6a19f3cc82d0",
+        "dateAdded": "2020-04-29T00:00:00.000Z",
+        "id": "c291a6300e06415f9191d7c1eda636aa",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+    "unsearchable": false
+  }
+}

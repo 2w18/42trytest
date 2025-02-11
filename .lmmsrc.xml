@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-config-file>
+<lmms version="1.2.2">
+  <MidiJack device="lmms"/>
+  <app displaydbfs="0" openlastproject="0" nanhandler="1" nomsgaftersetup="0" language="fr" configured="1" disablebackup="0" nommpz="0"/>
+  <audiojack channels="2" clientname="lmms"/>
+  <audioportaudio device="" backend=""/>
+  <audiosdl device=""/>
+  <mixer hqaudio="0" audiodev="SDL (Simple DirectMedia Layer)" mididev="Apple MIDI" framesperaudiobuffer="64"/>
+  <paths stkdir="/private/var/folders/r3/813wjfdd5h55zdtgzgxpsmsw0000gn/T/AppTranslocation/0D4FD86C-AD39-4620-94E3-01D4CDE49DAF/d/LMMS.app/Contents/MacOS/../share/stk/rawwaves/" artwork="data:/themes/default/" backgroundartwork="" workingdir="/Users/williamwagner/Documents/lmms/" sf2dir="/Users/williamwagner/Documents/lmms/samples/soundfonts/" gigdir="/Users/williamwagner/Documents/lmms/samples/gig/" laddir="/Users/williamwagner/Documents/lmms/plugins/ladspa/" vstdir="/Users/williamwagner/Documents/lmms/plugins/vst/" defaultsf2=""/>
+  <tooltips disabled="0"/>
+  <ui enablerunningautosave="0" vstembedmethod="qt" smoothscroll="0" animateafp="1" disableautoquit="1" oneinstrumenttrackwindow="0" printnotelabels="0" displaywaveform="0" enableautosave="1" compacttrackbuttons="0" saveinterval="2" vstalwaysontop="0" syncvstplugins="1"/>
+  <recentfiles>
+    <file path="data:/projects/templates/default.mpt"/>
+  </recentfiles>
+</lmms>

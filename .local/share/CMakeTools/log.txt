@@ -1,0 +1,86 @@
+2024-12-10T15:06:47.312Z [debug] [main] Construction sécurisée d'une instance de CMakeProject
+2024-12-10T15:06:47.313Z [debug] [variant] Construction de VariantManager
+2024-12-10T15:06:47.313Z [debug] [main] Construction d'une instance de CMakeProject
+2024-12-10T15:06:47.313Z [debug] [main] Démarrage de l'initialisation de la deuxième phase de CMake Tools
+2024-12-10T15:06:47.314Z [debug] [expand] ${workspaceFolder} étendu
+2024-12-10T15:06:47.316Z [debug] [kit] Lecture du fichier de kits /Users/williamwagner/.local/share/CMakeTools/cmake-tools-kits.json
+2024-12-10T15:06:47.353Z [info] [kit] Chargement réussi de 1 kits à partir de /Users/williamwagner/.local/share/CMakeTools/cmake-tools-kits.json
+2024-12-10T15:06:47.371Z [debug] [kit] Impossible de lire un fichier de kits inexistant : /Users/williamwagner/CLearning/.vscode/cmake-kits.json
+2024-12-10T15:06:47.385Z [info] [variant] Chargement effectué du nouvel ensemble de variantes
+2024-12-10T15:06:47.385Z [debug] [main] Initialisation de l'instance de CMakeProject effectuée
+2024-12-10T15:06:47.408Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-12-10T15:06:52.356Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-12-10T14:00:02.207Z [debug] [extension] Désactiver CMakeTools
+ilote CMake : aucun kit sélectionné
+2024-12-09T14:40:13.643Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-12-09T14:43:02.709Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-12-09T14:43:29.507Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-12-09T14:43:52.320Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-12-09T14:49:53.057Z [debug] [extension] Désactiver CMakeTools
+24-11-23T13:20:57.292Z [debug] [kit] Analyse du répertoire /usr/local/bin à la recherche de compilateurs
+2024-11-23T13:20:57.292Z [debug] [kit] Analyse du répertoire /usr/bin à la recherche de compilateurs
+2024-11-23T13:20:57.292Z [debug] [kit] Analyse du répertoire /usr/sbin à la recherche de compilateurs
+2024-11-23T13:20:57.292Z [debug] [kit] Analyse du répertoire /bin à la recherche de compilateurs
+2024-11-23T13:20:57.292Z [debug] [kit] Analyse du répertoire /sbin à la recherche de compilateurs
+2024-11-23T13:20:57.293Z [debug] [kit] Analyse du répertoire /System/Cryptexes/App/usr/bin à la recherche de compilateurs
+2024-11-23T13:20:57.293Z [debug] [kit] Analyse ignorée du chemin non existant /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin
+2024-11-23T13:20:57.293Z [debug] [kit] 0 kits trouvés dans le répertoire /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin
+2024-11-23T13:20:57.293Z [debug] [kit] Analyse du répertoire /Library/Apple/usr/bin à la recherche de compilateurs
+2024-11-23T13:20:57.293Z [debug] [kit] Analyse ignorée du chemin non existant /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+2024-11-23T13:20:57.293Z [debug] [kit] 0 kits trouvés dans le répertoire /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+2024-11-23T13:20:57.293Z [debug] [kit] Analyse ignorée du chemin non existant /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin
+2024-11-23T13:20:57.293Z [debug] [kit] 0 kits trouvés dans le répertoire /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin
+2024-11-23T13:20:57.293Z [debug] [kit] Analyse ignorée du chemin non existant undefined\LLVM\bin
+2024-11-23T13:20:57.294Z [debug] [kit] 0 kits trouvés dans le répertoire undefined\LLVM\bin
+2024-11-23T13:20:57.294Z [debug] [kit] Analyse ignorée du chemin non existant undefined\msys64\mingw32\bin
+2024-11-23T13:20:57.294Z [debug] [kit] 0 kits trouvés dans le répertoire undefined\msys64\mingw32\bin
+2024-11-23T13:20:57.294Z [debug] [kit] Analyse ignorée du chemin non existant undefined\msys64\clang32\bin
+2024-11-23T13:20:57.294Z [debug] [kit] 0 kits trouvés dans le répertoire undefined\msys64\clang32\bin
+2024-11-23T13:20:57.294Z [debug] [kit] Analyse ignorée du chemin non existant undefined\msys64\clang64\bin
+2024-11-23T13:20:57.294Z [debug] [kit] 0 kits trouvés dans le répertoire undefined\msys64\clang64\bin
+2024-11-23T13:20:57.294Z [debug] [kit] Analyse ignorée du chemin non existant undefined\msys64\clangarm64\bin
+2024-11-23T13:20:57.294Z [debug] [kit] 0 kits trouvés dans le répertoire undefined\msys64\clangarm64\bin
+2024-11-23T13:20:57.294Z [debug] [kit] Analyse ignorée du chemin non existant undefined\msys64\mingw64\bin
+2024-11-23T13:20:57.294Z [debug] [kit] 0 kits trouvés dans le répertoire undefined\msys64\mingw64\bin
+2024-11-23T13:20:57.294Z [debug] [kit] Analyse du répertoire /opt/homebrew/bin à la recherche de compilateurs
+2024-11-23T13:20:57.295Z [debug] [kit] Analyse ignorée du chemin non existant undefined\msys64\ucrt64\bin
+2024-11-23T13:20:57.295Z [debug] [kit] 0 kits trouvés dans le répertoire undefined\msys64\ucrt64\bin
+2024-11-23T13:20:57.299Z [debug] [kit] 0 kits trouvés dans le répertoire /Library/Frameworks/Python.framework/Versions/3.12/bin
+2024-11-23T13:20:57.299Z [debug] [kit] 0 kits trouvés dans le répertoire /opt/homebrew/sbin
+2024-11-23T13:20:57.300Z [debug] [kit] 0 kits trouvés dans le répertoire /opt/local/bin
+2024-11-23T13:20:57.300Z [debug] [kit] 0 kits trouvés dans le répertoire /opt/local/sbin
+2024-11-23T13:20:57.300Z [debug] [kit] 0 kits trouvés dans le répertoire /Library/Frameworks/Python.framework/Versions/3.10/bin
+2024-11-23T13:20:57.301Z [debug] [kit] 0 kits trouvés dans le répertoire /bin
+2024-11-23T13:20:57.302Z [debug] [kit] 0 kits trouvés dans le répertoire /sbin
+2024-11-23T13:20:57.302Z [debug] [kit] 0 kits trouvés dans le répertoire /System/Cryptexes/App/usr/bin
+2024-11-23T13:20:57.304Z [debug] [kit] 0 kits trouvés dans le répertoire /usr/local/bin
+2024-11-23T13:20:57.305Z [debug] [kit] 0 kits trouvés dans le répertoire /opt/homebrew/bin
+2024-11-23T13:20:57.309Z [debug] [kit] 0 kits trouvés dans le répertoire /usr/sbin
+2024-11-23T13:20:57.309Z [debug] [kit] 0 kits trouvés dans le répertoire /Library/Apple/usr/bin
+2024-11-23T13:20:57.312Z [debug] [kit] Test de la ressource binaire Clang : /usr/bin/clang
+2024-11-23T13:20:57.313Z [info] [proc] Exécution de la commande : /usr/bin/clang -v
+2024-11-23T13:20:57.317Z [debug] [kit] Test de la ressource binaire GCC : /usr/bin/gcc
+2024-11-23T13:20:57.317Z [info] [proc] Exécution de la commande : /usr/bin/gcc -v
+2024-11-23T13:20:57.321Z [debug] [kit] Test de la ressource binaire GCC : /usr/bin/llvm-gcc
+2024-11-23T13:20:57.321Z [info] [proc] Exécution de la commande : /usr/bin/llvm-gcc -v
+2024-11-23T13:20:57.349Z [debug] [kit] Binaire GCC incorrect. version des rapports "/usr/bin/llvm-gcc -v" : sortie  : Apple clang version 15.0.0 (clang-1500.3.9.4)
+Target: arm64-apple-darwin23.1.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+
+2024-11-23T13:20:57.350Z [debug] [kit] Détection du compilateur Clang : /usr/bin/clang
+2024-11-23T13:20:57.350Z [debug] [kit] Compilateur Clang détecté : /usr/bin/clang
+2024-11-23T13:20:57.352Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-11-23T13:20:57.556Z [debug] [kit] Binaire GCC incorrect. version des rapports "/usr/bin/gcc -v" : sortie  : Apple clang version 15.0.0 (clang-1500.3.9.4)
+Target: arm64-apple-darwin23.1.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+
+2024-11-23T13:20:57.557Z [debug] [kit] 1 kits trouvés dans le répertoire /usr/bin
+2024-11-23T13:20:57.557Z [info] [kit] Kit trouvé (de confiance): Clang 15.0.0 arm64-apple-darwin23.1.0
+2024-11-23T13:20:57.557Z [debug] [kitsController] Enregistrement des kits dans /Users/williamwagner/.local/share/CMakeTools/cmake-tools-kits.json
+2024-11-23T13:20:57.557Z [debug] [kitsController] Enregistrement des nouveaux kits dans /Users/williamwagner/.local/share/CMakeTools/cmake-tools-kits.json
+2024-11-23T13:21:02.278Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-11-23T13:30:15.356Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-11-23T13:32:32.974Z [debug] [main] Impossible de démarrer le pilote CMake : aucun kit sélectionné
+2024-11-23T13:34:12.814Z [debug] [extension] Désactiver CMakeTools
