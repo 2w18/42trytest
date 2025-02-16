@@ -17,7 +17,7 @@
 	}
 	return 0;
 
-	if(1) 
+	if(1) // 1 ici = Vrai,  
 	{
 		printf("c'est vrai\n");
 	}
@@ -92,9 +92,8 @@
 	return 0;
 }*/
 
-	int main () {
-
-	int Menu = 0,  choixMenu1 = 1, choixMenu2 = 2, choixMenu3 = 3, choixMenu4 = 4;
+	
+/*	int Menu = 0,  choixMenu1 = 1, choixMenu2 = 2, choixMenu3 = 3, choixMenu4 = 4;
 
 	printf("==Menu==\n, 1.Royal Cheese\n, 2.Mc Deluxe\n, 3.McBacon\n, 4.BigMac\n, Votre choix : ?");
 
@@ -124,9 +123,18 @@
 }
 
 	return 0;
-}
+} */
+	int main () 
+       
+	int age, majeur = 1; 
+	if (majeur)
+	age = 18;
+	else 
+	age = 17;
+	
 	
 
+	return 0;	
 
-
+} 
 
